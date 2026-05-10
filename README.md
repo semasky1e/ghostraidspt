@@ -6,6 +6,7 @@ SPT (Single Player Tarkov) - модификация для игры Escape From 
 Помимо обычных условий "Таркова" главное преимущество SPT - моды. Вы можете настроить практически всё: от крупных обновлений, улучшающих искусственный интеллект, доступность снаряжения и нового оружия, до небольших улучшений.
 
 [Модлист](https://github.com/semasky1e/ghostraidspt/discussions/4)
+
 [Скачать сборку (GoogleDisk)](https://drive.google.com/drive/folders/1GnUsKJQlhQMUNU8ZL-DEe3yOm1nP0zA3?usp=sharing)
 
 
