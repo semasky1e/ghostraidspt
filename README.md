@@ -1,4 +1,4 @@
-<h1 align="center">Ghost Raid 1.1
+<h1 align="center">Ghost Raid 1.1</a>
 
 Версия SPT: 4.0.13
 
