@@ -7,7 +7,7 @@ SPT (Single Player Tarkov) - модификация для игры Escape From 
 
 [Модлист](https://github.com/semasky1e/ghostraidspt/discussions/4)
 
-[Скачать сборку (GoogleDisk)](https://drive.google.com/drive/folders/1GnUsKJQlhQMUNU8ZL-DEe3yOm1nP0zA3?usp=sharing)
+[Скачать сборку (Mega)](https://mega.nz/folder/atIF1b7Q#emVofpXAU1Vnk_a89LCIMg)
 
 
 
