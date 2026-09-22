@@ -1,4 +1,4 @@
-![image](https://chatgpt.com/backend-api/estuary/content?id=file_000000000e6881f5af2a0889fd87d110&ts=497246&p=fs&cid=1&sig=64a8b24ebfe05978972130dcfdce487f2ded66fa625b6695d53be68eb0861009&v=0)
+![image](https://sun9-56.vkuserphoto.ru/s/v1/ig2/7vodDjsBkF9fpq_1Cnq3Xoyu4TaKyJuopCxsIGva17WOC4xh5iPYVsve9Wd0xVIN1z_a747eGsplYLYPnMe7258Z.jpg?quality=95&as=32x17,48x25,72x38,108x57,160x84,240x126,360x190,480x253,540x284,640x337,720x379,1080x569,1280x674,1440x758,1728x910&from=bu&u=AuCQbH9Wz0KIt-bmCk_Sh7PHLxJ4Mk7oMeZCmeVWqNU&cs=1728x0)
 
 Что такое SPT и почему он лучше обычного PVE-режима?
 
